@@ -6,3 +6,7 @@
 	path = admin/tool/clearbackupfiles
 	url = https://github.com/doiphode/moodle-tool_clearbackupfiles
 	branch = master
+[submodule "admin/tool/mergeusers"]
+	path = admin/tool/mergeusers
+	url = https://github.com/jpahullo/moodle-tool_mergeusers
+	branch = master
