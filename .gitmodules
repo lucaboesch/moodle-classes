@@ -14,3 +14,7 @@
 	path = report/coursesize
 	url = https://github.com/catalyst/moodle-report_coursesize
 	branch = MOODLE_401_STABLE
+[submodule "theme/boost_union"]
+	path = theme/boost_union
+	url = https://github.com/moodle-an-hochschulen/moodle-theme_boost_union
+	branch = MOODLE_500_STABLE
