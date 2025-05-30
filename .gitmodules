@@ -10,3 +10,7 @@
 	path = admin/tool/mergeusers
 	url = https://github.com/jpahullo/moodle-tool_mergeusers
 	branch = master
+[submodule "report/coursesize"]
+	path = report/coursesize
+	url = https://github.com/catalyst/moodle-report_coursesize
+	branch = MOODLE_401_STABLE
